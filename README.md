@@ -3,6 +3,8 @@ I keep finding stuff. It never stops. Anyway, here is some plaid office assistan
 
 [Download here.](https://github.com/amisthiosintraining/CONTROL-PlaidOfficeAssistant/releases/tag/officeassistant)
 
+<img src="https://imgur.com/obQ6aik.png" alt="The Canadian Plaid Shirt" width="1000">
+
 ## Installation
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
 2) If you haven't obtained the PS4 exclusive outfits (Urban Response, Astral Dive, Tactical Response) or others please refer to Fallbob's page <a href="https://www.nexusmods.com/control/mods/33">here</a> on how to acquire them.
